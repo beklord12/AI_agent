@@ -1,0 +1,4 @@
+speechrecognition
+PyAudio
+pyttsx3
+PySide6
